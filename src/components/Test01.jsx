@@ -1,8 +1,10 @@
-function TestO1() {
+function Test01() {
   return (
-      <h1>Hello World!</h1>
+    <>
+      <h1>Hello World</h1>
       <p>Welcome to React!</p>
+    </>
   );
 }
 
-export default TestO1;
+export default Test01;
